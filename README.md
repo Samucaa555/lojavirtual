@@ -1,1 +1,3 @@
 # lojavirtual
+
+texto alteradono repositorio
